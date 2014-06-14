@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script type="text/javascript" src="js\vendor\requirejs\require.js"></script>
+	<script type="text/javascript">
+		require.config({
+			paths : {
+				"jquery" : "js/vendor/jquery/dist/jquery",
+				"underscore" : "js/vendor/underscore/underscore"
+			},
+			shim :{
+				"underscore": {
+					"exports" : "_",
+					"deps" : [
+						"jquery"
+					]
+				}
+			}
+		});
+	</script>
+</head>
+<body>
+	<div>
+		<div style="height:500px;width:700px;margin:auto;position:absolute;left:0;right:0;top:0;bottom:0;">
+			<div style="display:table-row;">
+				<div style="display: table-cell; border: 1px solid red; padding-right: 5px;">
+					Aca va el texto con la explicacion de lo que hace el sistema.
+				</div>
+				<div style="display:table-cell">
+					Aca iria la imagen con el logo del sistema.
+				</div>
+			</div>
+			<div style="display: table-row; height: 65px;">
+				<div style="display: table-cell; padding-right: 5px;">
+					<div class="login-label">
+						<label for="txtUsuario">Usuario</label>
+					</div>
+					<div class="login-field">
+						<input type="text" required id="txtUsuario" maxlength="30" style="width:300px;"/>
+					</div>
+				</div>
+				<div style="display: table-cell;">
+					<div class="login-label">
+						<label for="txtPass">Password</label>
+					</div>
+					<div class="login-field">
+						<input type="password" required id="txtPass" maxlength="30" style="width:300px;"/>
+					</div>
+				</div>
+			</div>
+			<div style="display: table-row; width: 100%; clear: both; height: 22px;">
+				<div class="login-label">
+					<input type="checkbox" name="Recordarme" id="chkRecordar" value="checked" checked="checked" />
+					<label for="chkRecordar">Recordarme en esta PC</label>
+				</div>
+			</div>			
+			<div style="display: table-row; text-align: right; width: 100%; clear: both; height: 22px;">
+				<input type="button" value="Log In" onclick="ejecutarLogin();"/>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">
+		
+	</script>
+</body>
+</html>
