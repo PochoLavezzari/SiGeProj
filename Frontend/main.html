@@ -7,7 +7,21 @@
 		<meta name="keywords" content=""/>
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		<title></title>
-		
+		<style type="text/css">
+			#grilla  {
+				display:grid;
+				
+				grid-template-columns: minmax(min-content, 1fr) auto;
+				
+				grid-template-rows: auto auto minmax(min-content, 1fr) auto;
+			}
+			
+			#logo { grid-column : 1; grid-row:1 }
+			#infoLogin { grid-column : 2; grid-row:1 }
+			#menu { grid-column : 1; grid-row:2 }
+			#principal { grid-column : 1; grid-row:3 / span 2; }
+			#footer { grid-column : 1; grid-row:4 }
+		</style>
 	</head>
 	<body>
 		<!--# Site Header: Start -->
@@ -23,6 +37,13 @@
 		<!--# Site Header: End -->
 
 		<!--# Main: Start -->
+		<main id="grilla">
+			<div id="logo"></div>
+			<div id="infoLogin"></div>
+			<div id="menu"></div>
+			<div id="principal"></div>
+			<div id="footer"></div>
+		</main>
 		<section>
 			<!--# Article #1: Start -->
 			<article>
