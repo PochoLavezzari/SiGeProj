@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="D9BEFD9F-85AE-4D00-B41C-C76494949574" ModuleId="SIGEPROJ.WCF.ServiceLayer" />
+  <Module PersistentId="C53432C8-2951-456B-A856-06B16B01CCC6" ModuleId="SIGEPROJ.BusinessLayer" />
+  <Module PersistentId="C15D7E43-06E8-4D08-991E-51C90B6303FE" ModuleId="SIGEPROJ.PersistenceLayer" />
+  <Module PersistentId="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4" ModuleId="SIGEPROJ.BaseClasses" />
+  <Module PersistentId="BC6626A9-E840-43BB-9022-1CCA228B9338" ModuleId="SIGEPROJ.WCFHost" />
+</Modules>

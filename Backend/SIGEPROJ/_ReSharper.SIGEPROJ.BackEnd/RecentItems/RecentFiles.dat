@@ -1,0 +1,58 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:Messages/f:MessageKind.cs" caret="0" fromTop="0" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:DTOs/f:IDTOBase.cs" caret="450" fromTop="17" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:DTOs/d:Results/f:ResultValueDTO.cs" caret="0" fromTop="0" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:DTOs/d:Results/f:ResultVoidDTO.cs" caret="0" fromTop="0" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:DTOs/d:Results/f:ResultObjectDTO.cs" caret="2395" fromTop="75" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:DTOs/d:Results/f:ResultListDTO.cs" caret="1990" fromTop="67" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:DAOs/f:NHibernateHelper.cs" caret="44" fromTop="3" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:Mappers/f:IDTOMapperBase.cs" caret="1640" fromTop="40" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:BE/f:IBusinessEntityBase.cs" caret="0" fromTop="0" />
+    <File id="C53432C8-2951-456B-A856-06B16B01CCC6/f:Proceso.cs" caret="44" fromTop="1" />
+    <File id="C15D7E43-06E8-4D08-991E-51C90B6303FE/d:DAOs/f:IProcesoDAO.cs" caret="249" fromTop="8" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:DAOs/f:IDAOBase.cs" caret="464" fromTop="16" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:DAOs/f:DAONhBase.cs" caret="383" fromTop="11" />
+    <File id="D9BEFD9F-85AE-4D00-B41C-C76494949574/d:DTOs/d:Mappers/f:ProcesoDTOMapper.cs" caret="161" fromTop="5" />
+    <File id="C15D7E43-06E8-4D08-991E-51C90B6303FE/d:DAOsNHImpl/f:ProcesoDAO.cs" caret="192" fromTop="6" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:Services/f:ServiceBase.cs" caret="306" fromTop="9" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:Services/f:IServiceBase.cs" caret="486" fromTop="13" />
+    <File id="BC6626A9-E840-43BB-9022-1CCA228B9338/f:ProcesoService.svc" caret="0" fromTop="0" />
+    <File id="D9BEFD9F-85AE-4D00-B41C-C76494949574/d:Services/f:ProcesoService.cs" caret="248" fromTop="7" />
+    <File id="D9BEFD9F-85AE-4D00-B41C-C76494949574/d:Services/f:IProcesoService.cs" caret="133" fromTop="4" />
+    <File id="D9BEFD9F-85AE-4D00-B41C-C76494949574/f:App.config" caret="800" fromTop="12" />
+    <File id="C15D7E43-06E8-4D08-991E-51C90B6303FE/f:nHibernate.cfg.xml" caret="577" fromTop="9" />
+    <File id="BC6626A9-E840-43BB-9022-1CCA228B9338/f:Web.config" caret="333" fromTop="6" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:Messages/f:MessageResult.cs" caret="304" fromTop="0" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:Messages/f:MessageResultHelper.cs" caret="218" fromTop="0" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:DTOs/d:Results/f:ResultDTO.cs" caret="586" fromTop="0" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:Mappers/d:TypeMapperStrategies/f:EnumerableTypeMapperStrategy.cs" caret="408" fromTop="10" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:Mappers/d:TypeMapperStrategies/f:EnumerableToArrayTypeMapperStrategy.cs" caret="539" fromTop="14" />
+    <File id="D9BEFD9F-85AE-4D00-B41C-C76494949574/d:DTOs/f:ProcesoDTO.cs" caret="84" fromTop="1" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:Mappers/f:MemberInjection.cs" caret="12978" fromTop="16" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:DTOs/d:Results/f:ResultVoidDTO.cs" caret="0" fromTop="0" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:DTOs/f:IDTOBase.cs" caret="163" fromTop="6" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:DTOs/d:Results/f:ResultListDTO.cs" caret="2598" fromTop="16" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:DTOs/d:Results/f:ResultObjectDTO.cs" caret="2549" fromTop="19" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:DTOs/d:Results/f:ResultValueDTO.cs" caret="0" fromTop="0" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:Messages/f:MessageResultHelper.cs" caret="3061" fromTop="6" />
+    <File id="C15D7E43-06E8-4D08-991E-51C90B6303FE/d:DAOs/f:IProcesoDAO.cs" caret="34" fromTop="1" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:DAOs/f:IDAOBase.cs" caret="34" fromTop="2" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:DAOs/f:NHibernateHelper.cs" caret="44" fromTop="3" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:DAOs/f:DAONhBase.cs" caret="64" fromTop="2" />
+    <File id="C53432C8-2951-456B-A856-06B16B01CCC6/f:Proceso.cs" caret="45" fromTop="1" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:Mappers/f:IDTOMapperBase.cs" caret="1640" fromTop="28" />
+    <File id="D9BEFD9F-85AE-4D00-B41C-C76494949574/d:DTOs/d:Mappers/f:ProcesoDTOMapper.cs" caret="911" fromTop="30" />
+    <File id="C15D7E43-06E8-4D08-991E-51C90B6303FE/d:DAOsNHImpl/f:ProcesoDAO.cs" caret="224" fromTop="6" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:Services/f:ServiceBase.cs" caret="563" fromTop="17" />
+    <File id="D9BEFD9F-85AE-4D00-B41C-C76494949574/f:App.config" caret="2267" fromTop="23" />
+    <File id="BC6626A9-E840-43BB-9022-1CCA228B9338/f:ProcesoService.svc" caret="133" fromTop="0" />
+    <File id="D9BEFD9F-85AE-4D00-B41C-C76494949574/d:Services/f:ProcesoService.cs" caret="163" fromTop="6" />
+    <File id="BC6626A9-E840-43BB-9022-1CCA228B9338/f:Web.config" caret="621" fromTop="10" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:Services/f:IServiceBase.cs" caret="489" fromTop="13" />
+    <File id="D9BEFD9F-85AE-4D00-B41C-C76494949574/d:Services/f:IProcesoService.cs" caret="253" fromTop="7" />
+    <File id="E1D34DE7-D8CF-4D06-BEF4-C285CCAACDE4/d:DTOs/d:Results/f:ResultDTO.cs" caret="1726" fromTop="15" />
+  </RecentEdits>
+</RecentFiles>

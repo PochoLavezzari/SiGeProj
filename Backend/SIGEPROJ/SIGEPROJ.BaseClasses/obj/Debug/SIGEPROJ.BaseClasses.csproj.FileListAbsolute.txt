@@ -1,0 +1,11 @@
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.BaseClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.BaseClasses\bin\Debug\SIGEPROJ.BaseClasses.dll
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.BaseClasses\bin\Debug\SIGEPROJ.BaseClasses.pdb
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.BaseClasses\obj\Debug\SIGEPROJ.BaseClasses.dll
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.BaseClasses\obj\Debug\SIGEPROJ.BaseClasses.pdb
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.BaseClasses\bin\Debug\NHibernate.dll
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.BaseClasses\bin\Debug\Iesi.Collections.dll
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.BaseClasses\bin\Debug\NHibernate.pdb
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.BaseClasses\bin\Debug\NHibernate.xml
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.BaseClasses\bin\Debug\Iesi.Collections.pdb
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.BaseClasses\bin\Debug\Iesi.Collections.xml

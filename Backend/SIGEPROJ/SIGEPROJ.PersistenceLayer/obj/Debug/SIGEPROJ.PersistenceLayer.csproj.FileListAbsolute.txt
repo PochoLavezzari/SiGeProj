@@ -1,0 +1,16 @@
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.PersistenceLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.PersistenceLayer\bin\Debug\nHibernate.cfg.xml
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.PersistenceLayer\bin\Debug\SIGEPROJ.PersistenceLayer.dll
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.PersistenceLayer\bin\Debug\SIGEPROJ.PersistenceLayer.pdb
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.PersistenceLayer\bin\Debug\NHibernate.dll
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.PersistenceLayer\bin\Debug\SIGEPROJ.BusinessLayer.dll
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.PersistenceLayer\bin\Debug\Iesi.Collections.dll
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.PersistenceLayer\bin\Debug\SIGEPROJ.BusinessLayer.pdb
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.PersistenceLayer\bin\Debug\NHibernate.pdb
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.PersistenceLayer\bin\Debug\NHibernate.xml
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.PersistenceLayer\bin\Debug\Iesi.Collections.pdb
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.PersistenceLayer\bin\Debug\Iesi.Collections.xml
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.PersistenceLayer\obj\Debug\SIGEPROJ.PersistenceLayer.dll
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.PersistenceLayer\obj\Debug\SIGEPROJ.PersistenceLayer.pdb
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.PersistenceLayer\bin\Debug\SIGEPROJ.BaseClasses.dll
+D:\WF_NET\SistemaGestionProcesosJudiciales\sources\SIGEPROJ\SIGEPROJ.PersistenceLayer\bin\Debug\SIGEPROJ.BaseClasses.pdb

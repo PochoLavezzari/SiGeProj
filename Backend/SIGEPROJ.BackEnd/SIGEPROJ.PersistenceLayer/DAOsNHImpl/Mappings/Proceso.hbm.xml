@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="SIGEPROJ.BusinessLyer"
+                   namespace="SIGEPROJ.BusinessLyer">
+
+  <class name="Proceso" table="SJ_Procesos">
+    <id name="IdProceso" column="IdProceso" >
+      <generator class="assigned"/>
+    </id>
+    <property name="FechaProceso" column="FechaProceso" />
+    <property name="Descripcion" column="Descripcion" length="60" not-null="false"/>
+    <property name="Caratula" column="Caratula" length="60" not-null="false"/>
+  </class>
+
+</hibernate-mapping>
